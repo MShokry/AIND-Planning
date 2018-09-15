@@ -1,0 +1,1221 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"server_",
+				"server_page"
+			],
+			[
+				"update_server_",
+				"update_server_page"
+			],
+			[
+				"esp_",
+				"esp_ok"
+			],
+			[
+				"Hi",
+				"HIGH"
+			],
+			[
+				"dgita",
+				"digitalWrite\tDeviot digitalWrite"
+			],
+			[
+				"_",
+				"_ssid"
+			],
+			[
+				"SS",
+				"SSID"
+			],
+			[
+				"update",
+				"update_server"
+			],
+			[
+				"upda",
+				"update_server"
+			],
+			[
+				"max_wait_",
+				"max_wait_config"
+			],
+			[
+				"max",
+				"max_wait_server"
+			],
+			[
+				"tes",
+				"TEST_FLAG"
+			],
+			[
+				"power_usa",
+				"power_usart0_disable"
+			],
+			[
+				"esp",
+				"esp_config"
+			],
+			[
+				"btn_",
+				"btn_reset"
+			],
+			[
+				"box",
+				":ballot_box_with_check: ☑️\tballot box with check"
+			],
+			[
+				"server",
+				"server_port"
+			],
+			[
+				"ser",
+				"Server"
+			],
+			[
+				"prin",
+				"PRINTDEBUG"
+			],
+			[
+				"digita",
+				"digitalRead\tDeviot digitalRead"
+			],
+			[
+				"digia",
+				"digitalRead\tDeviot digitalRead"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"hi",
+				"HIGH"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"HI",
+				"HIGH"
+			],
+			[
+				"sleep",
+				"Sleep"
+			],
+			[
+				"digi",
+				"digitalWrite\tDeviot digitalWrite"
+			],
+			[
+				"printd",
+				"PRINTDEBUGLN"
+			],
+			[
+				"PR",
+				"PRINTDEBUG"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"se",
+				"selectms"
+			],
+			[
+				"bes",
+				"best_model_num\tstatement"
+			],
+			[
+				"lo",
+				"logger\tstatement"
+			],
+			[
+				"log",
+				"logging\tmodule"
+			],
+			[
+				"get",
+				"get_all_Xlengths\tfunction"
+			],
+			[
+				"score",
+				"score\tstatement"
+			],
+			[
+				"all",
+				"all_but_w\tstatement"
+			],
+			[
+				"sum",
+				"sum_scores\tstatement"
+			],
+			[
+				"len",
+				"lengths\tstatement"
+			],
+			[
+				"x",
+				"X\tstatement"
+			],
+			[
+				"min_",
+				"min_n_components\tstatement"
+			],
+			[
+				"NO",
+				"NOTSET\tstatement"
+			],
+			[
+				"N",
+				"None"
+			],
+			[
+				"th",
+				"this_word\tstatement"
+			],
+			[
+				"w",
+				"word"
+			],
+			[
+				"av",
+				"avg\tstatement"
+			],
+			[
+				"no",
+				"None\tkeyword"
+			],
+			[
+				"model",
+				"models\tstatement"
+			],
+			[
+				"sco",
+				"scores\tstatement"
+			],
+			[
+				"cv_",
+				"cv_test_idx\tstatement"
+			],
+			[
+				"cv",
+				"cv_train_idx\tstatement"
+			],
+			[
+				"min",
+				"min_model\tstatement"
+			],
+			[
+				"SelectorC",
+				"SelectorConstant"
+			],
+			[
+				"S",
+				"SelectorBIC"
+			],
+			[
+				"bi",
+				"bic_scores\tstatement"
+			],
+			[
+				"E",
+				"Exception\tclass"
+			],
+			[
+				"bas",
+				"base_model\tfunction"
+			],
+			[
+				"ma",
+				"max_n_components\tstatement"
+			],
+			[
+				"wdt",
+				"wdt_wake"
+			],
+			[
+				"to",
+				"toint"
+			],
+			[
+				"s",
+				"sleep\tfunction"
+			],
+			[
+				"Tiem",
+				"TimeoutError\tclass"
+			],
+			[
+				"sys",
+				"system\tfunction"
+			],
+			[
+				"SIG",
+				"SIGALRM\tinstance"
+			],
+			[
+				"sig",
+				"signal\tfunction"
+			],
+			[
+				"go",
+				"goal\tstatement"
+			],
+			[
+				"level",
+				"level_sum\tstatement"
+			],
+			[
+				"s_levl",
+				"s_levels\tstatement"
+			],
+			[
+				"node",
+				"node_s2\tparam"
+			],
+			[
+				"__",
+				"__eq__\tfunction"
+			],
+			[
+				"is",
+				"is_mutex"
+			],
+			[
+				"ac",
+				"action\tstatement"
+			],
+			[
+				"node_",
+				"node_a2\tparam"
+			],
+			[
+				"ef",
+				"effect_add\tstatement"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"logg",
+				"logger\tstatement"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"node_s",
+				"node_s_new\tstatement"
+			],
+			[
+				"eff",
+				"effnodes"
+			],
+			[
+				"a",
+				"a_levels\tstatement"
+			],
+			[
+				"s_",
+				"s_nodes"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"Pg",
+				"PgNode_a\tclass"
+			],
+			[
+				"cus",
+				"custom_score_5\tfunction"
+			],
+			[
+				"im",
+				"improved_score\tfunction"
+			],
+			[
+				"Player",
+				"player1"
+			],
+			[
+				"Wa",
+				"WARNING\tstatement"
+			],
+			[
+				"W",
+				"WARNING\tstatement"
+			],
+			[
+				"forma",
+				"formater\tstatement"
+			],
+			[
+				"Not",
+				"NOTSET\tstatement"
+			],
+			[
+				"NOT",
+				"NOTSET\tstatement"
+			],
+			[
+				"inf",
+				"info\tfunction"
+			],
+			[
+				"info",
+				"INFO\tstatement"
+			],
+			[
+				"e",
+				"effect_add\tstatement"
+			],
+			[
+				"effe",
+				"effect_rem\tstatement"
+			],
+			[
+				"p",
+				"pos\tstatement"
+			],
+			[
+				"state",
+				"state_map\tstatement"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/mshokry/PWS/arduino/rat_esp/rat_esp.ino",
+			"settings":
+			{
+				"buffer_size": 10519,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/PWS/arduino/rat_ardu/rat_ardu.ino",
+			"settings":
+			{
+				"buffer_size": 12434,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/.config/sublime-text-3/Packages/User/arduino-cli.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 119,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/PWS/arduino/rat_ardu/README.md",
+			"settings":
+			{
+				"buffer_size": 7588,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/PWS/arduino/esp_rfid_v2/rfid.php",
+			"settings":
+			{
+				"buffer_size": 3810,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.cpp",
+			"settings":
+			{
+				"buffer_size": 21172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.h",
+			"settings":
+			{
+				"buffer_size": 9023,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/mshokry/python/app.py",
+			"settings":
+			{
+				"buffer_size": 776,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n#include <FS.h>                   //this needs to be first, or it all crashes and burns...\n\n#include <ESP8266WiFi.h>          //https://github.com/esp8266/Arduino\n\n//needed for library\n#include <DNSServer.h>\n#include <ESP8266WebServer.h>\n#include <WiFiManager.h>          //https://github.com/tzapu/WiFiManager\n\n#include <ArduinoJson.h>          //https://github.com/bblanchon/ArduinoJson\n\n//define your default values here, if there are different values in config.json, they are overwritten.\n//length should be max size + 1 \nchar mqtt_server[40];\nchar mqtt_port[6] = \"8080\";\nchar blynk_token[33] = \"YOUR_BLYNK_TOKEN\";\n//default custom static IP\nchar static_ip[16] = \"10.0.1.56\";\nchar static_gw[16] = \"10.0.1.1\";\nchar static_sn[16] = \"255.255.255.0\";\n\n//flag for saving data\nbool shouldSaveConfig = false;\n\n//callback notifying us of the need to save config\nvoid saveConfigCallback () {\n  Serial.println(\"Should save config\");\n  shouldSaveConfig = true;\n}\n\nvoid setup() {\n  // put your setup code here, to run once:\n  Serial.begin(115200);\n  Serial.println();\n\n  //clean FS, for testing\n  //SPIFFS.format();\n\n  //read configuration from FS json\n  Serial.println(\"mounting FS...\");\n\n  if (SPIFFS.begin()) {\n    Serial.println(\"mounted file system\");\n    if (SPIFFS.exists(\"/config.json\")) {\n      //file exists, reading and loading\n      Serial.println(\"reading config file\");\n      File configFile = SPIFFS.open(\"/config.json\", \"r\");\n      if (configFile) {\n        Serial.println(\"opened config file\");\n        size_t size = configFile.size();\n        // Allocate a buffer to store contents of the file.\n        std::unique_ptr<char[]> buf(new char[size]);\n\n        configFile.readBytes(buf.get(), size);\n        DynamicJsonBuffer jsonBuffer;\n        JsonObject& json = jsonBuffer.parseObject(buf.get());\n        json.printTo(Serial);\n        if (json.success()) {\n          Serial.println(\"\\nparsed json\");\n\n          strcpy(mqtt_server, json[\"mqtt_server\"]);\n          strcpy(mqtt_port, json[\"mqtt_port\"]);\n          strcpy(blynk_token, json[\"blynk_token\"]);\n\n          if(json[\"ip\"]) {\n            Serial.println(\"setting custom ip from config\");\n            //static_ip = json[\"ip\"];\n            strcpy(static_ip, json[\"ip\"]);\n            strcpy(static_gw, json[\"gateway\"]);\n            strcpy(static_sn, json[\"subnet\"]);\n            //strcat(static_ip, json[\"ip\"]);\n            //static_gw = json[\"gateway\"];\n            //static_sn = json[\"subnet\"];\n            Serial.println(static_ip);\n/*            Serial.println(\"converting ip\");\n            IPAddress ip = ipFromCharArray(static_ip);\n            Serial.println(ip);*/\n          } else {\n            Serial.println(\"no custom ip in config\");\n          }\n        } else {\n          Serial.println(\"failed to load json config\");\n        }\n      }\n    }\n  } else {\n    Serial.println(\"failed to mount FS\");\n  }\n  //end read\n  Serial.println(static_ip);\n  Serial.println(blynk_token);\n  Serial.println(mqtt_server);\n\n\n  // The extra parameters to be configured (can be either global or just in the setup)\n  // After connecting, parameter.getValue() will get you the configured value\n  // id/name placeholder/prompt default length\n  WiFiManagerParameter custom_mqtt_server(\"server\", \"mqtt server\", mqtt_server, 40);\n  WiFiManagerParameter custom_mqtt_port(\"port\", \"mqtt port\", mqtt_port, 5);\n  WiFiManagerParameter custom_blynk_token(\"blynk\", \"blynk token\", blynk_token, 34);\n\n  //WiFiManager\n  //Local intialization. Once its business is done, there is no need to keep it around\n  WiFiManager wifiManager;\n\n  //set config save notify callback\n  wifiManager.setSaveConfigCallback(saveConfigCallback);\n\n  //set static ip\n  IPAddress _ip,_gw,_sn;\n  _ip.fromString(static_ip);\n  _gw.fromString(static_gw);\n  _sn.fromString(static_sn);\n\n  wifiManager.setSTAStaticIPConfig(_ip, _gw, _sn);\n  \n  //add all your parameters here\n  wifiManager.addParameter(&custom_mqtt_server);\n  wifiManager.addParameter(&custom_mqtt_port);\n  wifiManager.addParameter(&custom_blynk_token);\n\n  //reset settings - for testing\n  //wifiManager.resetSettings();\n\n  //set minimu quality of signal so it ignores AP's under that quality\n  //defaults to 8%\n  wifiManager.setMinimumSignalQuality();\n  \n  //sets timeout until configuration portal gets turned off\n  //useful to make it all retry or go to sleep\n  //in seconds\n  //wifiManager.setTimeout(120);\n\n  //fetches ssid and pass and tries to connect\n  //if it does not connect it starts an access point with the specified name\n  //here  \"AutoConnectAP\"\n  //and goes into a blocking loop awaiting configuration\n  if (!wifiManager.autoConnect(\"AutoConnectAP\", \"password\")) {\n    Serial.println(\"failed to connect and hit timeout\");\n    delay(3000);\n    //reset and try again, or maybe put it to deep sleep\n    ESP.reset();\n    delay(5000);\n  }\n\n  //if you get here you have connected to the WiFi\n  Serial.println(\"connected...yeey :)\");\n\n  //read updated parameters\n  strcpy(mqtt_server, custom_mqtt_server.getValue());\n  strcpy(mqtt_port, custom_mqtt_port.getValue());\n  strcpy(blynk_token, custom_blynk_token.getValue());\n\n  //save the custom parameters to FS\n  if (shouldSaveConfig) {\n    Serial.println(\"saving config\");\n    DynamicJsonBuffer jsonBuffer;\n    JsonObject& json = jsonBuffer.createObject();\n    json[\"mqtt_server\"] = mqtt_server;\n    json[\"mqtt_port\"] = mqtt_port;\n    json[\"blynk_token\"] = blynk_token;\n\n    json[\"ip\"] = WiFi.localIP().toString();\n    json[\"gateway\"] = WiFi.gatewayIP().toString();\n    json[\"subnet\"] = WiFi.subnetMask().toString();\n\n    File configFile = SPIFFS.open(\"/config.json\", \"w\");\n    if (!configFile) {\n      Serial.println(\"failed to open config file for writing\");\n    }\n\n    json.prettyPrintTo(Serial);\n    json.printTo(configFile);\n    configFile.close();\n    //end save\n  }\n\n  Serial.println(\"local ip\");\n  Serial.println(WiFi.localIP());\n  Serial.println(WiFi.gatewayIP());\n  Serial.println(WiFi.subnetMask());\n}\n\nvoid loop() {\n  // put your main code here, to run repeatedly:\n\n\n}\n",
+			"settings":
+			{
+				"buffer_size": 6010,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					""
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"just build"
+				],
+				[
+					"Packages/arduino-cli/arduino-cli.sublime-build",
+					"build and upload"
+				]
+			],
+			[
+				"Packages/arduino-cli/arduino-cli.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serial",
+				"Deviot: Serial Baudrate"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"delay",
+				"Snippet: Deviot delay()"
+			],
+			[
+				"c",
+				"Set Syntax: C++"
+			],
+			[
+				"git",
+				"GitHub: View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python3"
+			],
+			[
+				"c+",
+				"Set Syntax: C++"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"diff",
+				"Diffy Compare"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"unit",
+				"Pyunit: Run All Tests"
+			],
+			[
+				"anaconda",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"md",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"pep8",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"test",
+				"PythonTest: Run project tests"
+			],
+			[
+				"uni",
+				"Pyunit: Run All Tests"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"pio -h",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mshokry/PWS/AIND/AIND-Planning"
+	],
+	"file_history":
+	[
+		"/home/mshokry/.arduino15/packages/esp8266/hardware/esp8266/2.4.1/libraries/ESP8266WiFi/src/ESP8266WiFi.cpp",
+		"/home/mshokry/PWS/arduino/ToKSA_RFID_Ardu/ToKSA_RFID_Ardu.ino",
+		"/home/mshokry/PWS/arduino/esp_rfid_v2/finger.php",
+		"/home/mshokry/PWS/arduino/esp_rfid_v2/rfid.php",
+		"/home/mshokry/PWS/arduino/esp_rfid_v2/esp_rfid_v2.ino",
+		"/home/mshokry/PWS/arduino/esp_finger_v2/esp_finger_v2.ino",
+		"/home/mshokry/PWS/arduino/esp_rfid_v2/finger.php.old",
+		"/home/mshokry/PWS/arduino/esp_finger/esp_finger.ino",
+		"/home/mshokry/PWS/arduino/esp_finger/finger.md",
+		"/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.cpp",
+		"/home/mshokry/.config/sublime-text-3/Packages/User/arduino-cli.sublime-settings",
+		"/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.h",
+		"/home/mshokry/.arduino15/packages/arduino/tools/avr-gcc/4.9.2-atmel3.5.4-arduino2/avr/include/avr/power.h",
+		"/mnt/MaDream/My projects/Iot/LoLin/AC/Update",
+		"/home/mshokry/PWS/arduino/rat_ard/rat_ard.ino",
+		"/home/mshokry/.config/sublime-text-3/Packages/User/GitHub.sublime-settings",
+		"/home/mshokry/.config/sublime-text-3/Packages/sublime-github/GitHub.sublime-settings",
+		"/home/mshokry/PWS/arduino/rat_arduino/rat_ardu.ino",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/my_model_selectors.py",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/asl_data.py",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/my_recognizer.py",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/asl_utils.py",
+		"/home/mshokry/PWS/arduino/rat/rat.ino",
+		"/home/mshokry/PWS/AIND/AIND-Planning/my_planning_graph.py",
+		"/home/mshokry/.config/sublime-text-3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/home/mshokry/PWS/AIND/AIND-Planning/my_air_cargo_problems.py",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/data/speaker.csv",
+		"/home/mshokry/PWS/AIND/AIND-Recognizer/data/hands_condensed.csv",
+		"/home/mshokry/.config/sublime-text-3/Packages/User/Anaconda.sublime-settings",
+		"/home/mshokry/PWS/AIND/AIND-Planning/example_have_cake.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/README.md",
+		"/home/mshokry/PWS/AIND/AIND-Planning/REPORT",
+		"/home/mshokry/Downloads/voting.php",
+		"/home/mshokry/PWS/AIND/AIND-Planning/aimacode/search.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/mytest.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/p1.txt",
+		"/home/mshokry/PWS/AIND/AIND-Planning/p2.txt",
+		"/home/mshokry/PWS/AIND/AIND-Planning/p3.txt",
+		"/home/mshokry/PWS/AIND/AIND-Planning/oth.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/run_search_timer.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/run_search.py",
+		"/home/mshokry/PWS/AIND/AIND-Planning/rep.py",
+		"/home/mshokry/PWS/arduino/alexa/alexa.ino",
+		"/home/mshokry/PWS/arduino/RFID_READER/RFID_READER.ino",
+		"/home/mshokry/PWS/AIND/AIND-Planning/p1_results.txt",
+		"/home/mshokry/PWS/AIND/AIND-Planning/p2_results.txt",
+		"/home/mshokry/PWS/AIND/AIND-Planning/aimacode/utils.py",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/test.log",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/test2.log",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/game_agent.py",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/sample_players.py",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/AIND-Isolation/isolation/isolation.py",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/tournament.py",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/log.log",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/out.txt",
+		"/home/mshokry/.config/sublime-text-3/Packages/User/Python.sublime-settings",
+		"/home/mshokry/PWS/AIND/AIND-Isolation/README.md",
+		"/home/mshokry/PWS/AIND/AIND-Planning/my_air_cargo_problems.sublime-workspace"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/home/mshokry/.arduino15,/home/mshokry/PWS/arduino/",
+			"/home/mshokry/.arduino15",
+			"/home/mshokry/PWS/AIND/AIND-Recognizer,/home/mshokry/PWS/arduino,/home/mshokry",
+			"/home/mshokry/PWS/AIND/AIND-Recognizer,/home/mshokry/PWS/arduino,/home/mshokry/",
+			"/home/mshokry/PWS/AIND/AIND-Recognizer,/home/mshokry/PWS/arduino",
+			"/home/mshokry/PWS/AIND/AIND-Recognizer",
+			"/home/mshokry/PWS/AIND/AIND-Isolation,/mnt/MaDream/My projects/Iot",
+			"/home/mshokry/PWS/AIND/AIND-Isolation",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"server_page",
+			"server",
+			"update_server",
+			"WiFi",
+			"static_gw",
+			"esp_update",
+			"update",
+			"timeout",
+			"LedPin",
+			"BUZZER",
+			"server",
+			"timeout",
+			"setupConfigPortal",
+			"HTTP server started",
+			"*WM: HTTP server started",
+			"esp_update",
+			"TEST_FLAG",
+			"esp_update",
+			"esp_config",
+			"config",
+			"esp_config",
+			"btn_config",
+			"nest",
+			"conne",
+			"test",
+			"esp_update",
+			"test",
+			"<br>",
+			"{c}",
+			"dns",
+			"PLACE",
+			"update",
+			"5E:CF:7F:81:0A:8A",
+			"5C:CF:7F:81:0A:8A",
+			"update",
+			"TEMPLATES_PER_PAGE",
+			"getFingerprintEnroll",
+			"rfidLog",
+			".log",
+			"log",
+			"finger.php",
+			"update",
+			":negative_squared_cross_mark:",
+			":black_square_button:",
+			":ballot_box_with_check: ",
+			"place",
+			"TEST_FLAG",
+			"btn_test",
+			"reset_isr",
+			"RESET_FLAG",
+			"server_port",
+			"server",
+			"setSaveConfigCallback",
+			"saveConfigCallback",
+			"shouldSaveConfig",
+			"WiFiManagerParameter",
+			"_pass",
+			"startConfigPortal",
+			"autoConnect",
+			"_pass",
+			"p=",
+			"s=",
+			"return _",
+			"return _ap",
+			"return _apName;",
+			"getConfigPortal",
+			"_apPassword",
+			"_apName",
+			"load_wifi",
+			"Server",
+			"server",
+			"update_server",
+			"json",
+			"mqtt_port",
+			"mqtt_server",
+			"Serial.println",
+			"autoConnect",
+			"WiFiManagerParameter",
+			"setSTAStaticIPConfig",
+			"_configPortalTimeout",
+			"WIFI_MANAGER_MAX_PARAMS",
+			"power_usart_disable",
+			"power_twi_disable",
+			"power_usart_disable",
+			"RISING",
+			"ESP.getVcc",
+			"bool",
+			"pinTick",
+			"INPUT",
+			"pinMode",
+			"server",
+			"fing_interval",
+			"getFingerprintEnroll",
+			"add",
+			"attach",
+			"https",
+			"server",
+			"esp_wake",
+			"host",
+			"Host",
+			"host",
+			"true",
+			"TRUE",
+			"false",
+			"FALSE",
+			"false",
+			"fasle",
+			"TRUE",
+			"delay",
+			"FALSE",
+			"esp_ok",
+			"setupTimer",
+			"msg",
+			"setup",
+			"ping",
+			"custom_mqtt_server",
+			"unique_ptr",
+			"load_wifi",
+			"Serial.println",
+			"println",
+			"kf",
+			"x",
+			"length",
+			"get_all_Xlengths",
+			"get_all_sequences",
+			"score",
+			"must sum to",
+			"transmat_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/mshokry/PWS/arduino/rat_esp/rat_esp.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/mshokry/PWS/arduino/rat_ardu/rat_ardu.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								855,
+								855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/mshokry/.config/sublime-text-3/Packages/User/arduino-cli.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119,
+								119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/mshokry/PWS/arduino/rat_ardu/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4400,
+								4400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1786.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/mshokry/PWS/arduino/esp_rfid_v2/rfid.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5332,
+								5339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/mshokry/PWS/arduino/libraries/WiFiManager/WiFiManager.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2749,
+								2744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Deviot (Arduino IDE)/deviot.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 340.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/mshokry/python/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3660,
+								3569
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.deviot":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/arduino-cli/arduino-cli.sublime-build",
+	"project": "my_air_cargo_problems.sublime-workspace",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".md",
+				"README.md"
+			],
+			[
+				"",
+				"my_air_cargo_problems.py"
+			],
+			[
+				"my",
+				"mytest.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
